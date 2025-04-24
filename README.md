@@ -13,7 +13,7 @@ This **Notepad** application is developed in **C++** using **Linked Lists** to m
 ## 🛠️ How to Run
 Make sure you have a C++ compiler installed.
 
-        ```bash
+     ```bash
     g++ Notepad.cpp -o Notepad
 
 ## 🤝 Contributions
