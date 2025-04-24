@@ -14,13 +14,13 @@ This **Notepad** application is developed in **C++** using **Linked Lists** to m
 
 Make sure you have a C++ compiler installed.
 
-```bash
-g++ Notepad.cpp -o Notepad
+    ```bash
+        g++ Notepad.cpp -o Notepad
 
 ### 🤝 Contributions
 
-We welcome contributions from the open-source community to improve and enhance the Snake Game!
+We welcome contributions from the open-source community to improve and enhance the **Notepad!**
 
 ### 📄 License
 
-Snake Game is open-source software released under the MIT License.
+Notepad is open-source software released under the MIT License. Feel free to use, modify, and distribute this project with proper attribution.
