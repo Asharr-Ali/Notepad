@@ -10,7 +10,7 @@ This **Notepad** application is developed in **C++** using **Linked Lists** to m
 - Content is **saved to a file** on pressing `Ctrl + S`
 - Reloads saved content automatically when reopened
 
-## How to Run
+## 🛠️ How to Run
 Make sure you have a C++ compiler installed.
 
     ```bash
