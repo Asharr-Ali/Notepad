@@ -17,10 +17,10 @@ Make sure you have a C++ compiler installed.
     ```bash
         g++ Notepad.cpp -o Notepad
 
-#### 🤝 Contributions
+# 🤝 Contributions
 
 We welcome contributions from the open-source community to improve and enhance the **Notepad!**
 
-#### 📄 License
+# 📄 License
 
 **Notepad** is open-source software released under the **MIT License**. Feel free to use, modify, and distribute this project with proper attribution.
